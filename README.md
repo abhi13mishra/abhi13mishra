@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋, I'm Abhishek Mishra
 
-<!--
-**abhi13mishra/abhi13mishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A passionate Full Stack Web Developer (MERN)
 
-Here are some ideas to get you started:
+🚀 I build scalable and secure web applications  
+💻 Skilled in React, Node.js, Express, MongoDB  
+📈 Focused on performance optimization & clean code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Connect with me
+- 🔗 Portfolio: https://abhishek-mishra-fsd.netlify.app  
+- 💼 LinkedIn: https://www.linkedin.com/in/abhishek-mishra-987a00259/  
+- 📧 Email: your-email@gmail.com  
+
+---
+
+## 🛠️ Tech Stack
+- Frontend: HTML, CSS, JavaScript, React  
+- Backend: Node.js, Express  
+- Database: MongoDB  
+- Tools: Git, GitHub  
+
+---
+
+## 📌 Projects
+- 🍲 Recipe Sharing Platform  
+- 💰 Expense Tracker  
+
+---
+
+🔥 Always learning and building real-world projects.
