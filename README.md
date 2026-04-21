@@ -11,7 +11,7 @@
 ## 🌐 Connect with me
 - 🔗 Portfolio: https://abhishek-mishra-fsd.netlify.app  
 - 💼 LinkedIn: https://www.linkedin.com/in/abhishek-mishra-987a00259/  
-- 📧 Email: your-email@gmail.com  
+- 📧 Email: abhishek.mishra.fsd@gmail.com  
 
 ---
 
