@@ -1,13 +1,3 @@
-# Hi 👋, I'm Abhishek Mishra
-
-### A passionate Full Stack Web Developer (MERN)
-
-🚀 I build scalable and secure web applications  
-💻 Skilled in React, Node.js, Express, MongoDB  
-📈 Focused on performance optimization & clean code  
-
----
-
 <h1 align="center">Hi 👋, I'm Abhishek Mishra</h1>
 <h3 align="center">💻 Full Stack Web Developer (MERN) | Building Scalable & Secure Applications</h3>
 
